@@ -4,17 +4,18 @@ Nutnou podmienkou pre absolvovanie predmetu Vývoj aplikácií pre internet a in
 
 Kontrolné termíny
 Počas semestra bude stav semestrálnej práce kontrolovaný na dvoch cvičeniach a to v 4. a 9. týždni (ak nenastane nič neočakávané). Na kontrolnom termíne bude vyučujúci iba kontrolovať stav semestrálnej práce podľa stanovených podmienok:
+
 Termín 1 
-○	Použitie GIT, 
-○	Minimálne 3 rozdielne netriviálne statické HTML stránky
-○	Aspoň vlastných 10 CSS pravidiel (externe pripojené)
-○	Valídne HTML a CSS
-○	Responzívny dizajn
+- Použitie GIT, 
+- Minimálne 3 rozdielne netriviálne statické HTML stránky
+- Aspoň vlastných 10 CSS pravidiel (externe pripojené)
+- Valídne HTML a CSS
+- Responzívny dizajn
 
 Termín 2
-○	Implementované všetky CRUD operácie
-○	Kontrola vstupov na strane klienta, aj servera
-○	Netriviálny JavaScript
+- Implementované všetky CRUD operácie
+- Kontrola vstupov na strane klienta, aj servera
+- Netriviálny JavaScript
 
 Pre odovzdanie semestrálnej práce je nutné, aby študent získal z kontrolných termínov 12 a viac bodov.
 Termíny
