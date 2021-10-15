@@ -26,12 +26,12 @@ Povinné náležitosti semestrálnej práce
 Semestrálna práca musí spĺňať nasledovné povinné podmienky. Ak niektoré z nich nie sú splnené, prácu nie je možné obhajovať. 
 Ak máte špecifickú prácu, ktorá nespĺňa tieto požiadavky, ale je dostatočne zložitá v inom smere (napr. netriviálna hra v JS a pod.), je nutné sa vopred s vyučujúcimi dohodnúť, či je práca vhodná ako semestrálna.
 Povinné požiadavky na semestrálnu prácu:
-●	min. 5 dynamických stránok
-●	min. 50 vlastných riadkov kódu v Javascripte (Typescript, Dart, ...)
-●	min. 20 vlastných CSS pravidiel (mimo Bootstrap a pod.) 
-●	min. 4 zmysluplné DB entity, všetky použité v aplikácii
-●	v aplikácii sú implementované všetky CRUD (čítanie, vytváranie, úprava a mazanie dát) operácie nad hlavnou entitou a jednou ďalšou, ostatné entity musia mať implementované aspoň dve operácie. 
-●	aplikácia musí obsahovať časť, do ktorej je nutné sa prihlásiť
+-	min. 5 dynamických stránok
+-	min. 50 vlastných riadkov kódu v Javascripte (Typescript, Dart, ...)
+-	min. 20 vlastných CSS pravidiel (mimo Bootstrap a pod.) 
+-	min. 4 zmysluplné DB entity, všetky použité v aplikácii
+-	v aplikácii sú implementované všetky CRUD (čítanie, vytváranie, úprava a mazanie dát) operácie nad hlavnou entitou a jednou ďalšou, ostatné entity musia mať implementované aspoň dve operácie. 
+-	aplikácia musí obsahovať časť, do ktorej je nutné sa prihlásiť
 Do počtu sa nerátajú prevzaté (napr. z cvičení alebo zbierky úloh z VAII) a mierne upravené, frameworkom/knižnicou vygenerované DB entity, stránky, CSS pravidlá, kód, atď.
 Semestrálna práca 
 1.	Každý študent vypracováva prácu samostatne a osobne ju aj obhajuje, pričom ju nie je možné odovzdať prostredníctvom iného študenta. Nesamostatné vypracovanie jednotlivých častí je dôvodom na neabsolvovanie predmetu.
