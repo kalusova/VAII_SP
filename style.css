@@ -1,38 +1,48 @@
 tr:nth-child(2n+1) {
     background-color: #EAEAEA;
 }
+
 th, td {
     text-align: center;
 }
+
 th {
     color: white;
 }
+
 tr:hover {
     background-color: lightsteelblue;
 }
+
 p {
     color: black;
     font-family: "Times New Roman";
     font-size: large;
 }
+
 p:first-letter {
     color: saddlebrown;
 }
-.card-body:first-letter , p:first-letter{
+
+.card-body:first-letter, p:first-letter {
     font-family: "Brush Script MT";
     font-size: x-large;
 }
-.card-body{
+
+.card-body {
     background-color: lightsteelblue;
     color: white;
 }
+
 td:nth-child(1) {
     text-transform: uppercase;
 }
+
 #search {
     color: white;
     background-color: dodgerblue;
 }
+
 #search:hover {
     background-color: darkseagreen;
 }
