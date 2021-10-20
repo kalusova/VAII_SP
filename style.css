@@ -4,8 +4,11 @@ tr:nth-child(2n+1) {
 th, td {
     text-align: center;
 }
+th {
+    color: white;
+}
 tr:hover {
-    background-color: lightblue;
+    background-color: lightsteelblue;
 }
 p {
     color: black;
@@ -14,6 +17,23 @@ p {
 }
 p:first-letter {
     color: saddlebrown;
-    font-size: x-large;
-    font-family: "Brush Script MT" ;
 }
+.card-body:first-letter , p:first-letter{
+    font-family: "Brush Script MT";
+    font-size: x-large;
+}
+.card-body{
+    background-color: lightsteelblue;
+    color: white;
+}
+td:nth-child(1) {
+    text-transform: uppercase;
+}
+#search {
+    color: white;
+    background-color: dodgerblue;
+}
+#search:hover {
+    background-color: darkseagreen;
+}
+
