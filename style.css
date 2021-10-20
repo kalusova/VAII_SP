@@ -1,0 +1,8 @@
+tr:nth-child(2n+1) {
+    background-color: #EAEAEA;
+}
+th {
+    background: green;
+    font-weight: bold;
+    text-align: center;
+}
